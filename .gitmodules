@@ -1,3 +1,6 @@
 [submodule "Asset"]
 	path = Asset
 	url = https://github.com/hariharanmag/Spring.git
+[submodule "Spring"]
+	path = Spring
+	url = https://github.com/hariharanmag/Spring.git
